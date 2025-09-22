@@ -18,13 +18,23 @@ Verified the app works by visiting http://127.0.0.1:5000/catalog
 
 
 
- Screenshots included in submission:
+ SScreenshots included in submission:
 
-- ![Catalog page](screenshots/catalog.png)  
-- ![Terminal after running Flask](screenshots/terminal.png)  
-- ![After adding a book](screenshots/add_book.png)  
-- ![After trying to return a book](screenshots/return_book.png)  
-- ![Banner change](screenshots/changed_banner.png)  
+**Catalog page:**  
+![Catalog page](screenshots/catalog.png)  
+
+**Terminal after running Flask:**  
+![Terminal after running Flask](screenshots/terminal.png)  
+
+**After adding a book:**  
+![After adding a book](screenshots/add_book.png)  
+
+**After trying to return a book:**  
+![After trying to return a book](screenshots/return_book.png)  
+
+**Banner change (showing my name):**  
+![Banner change](screenshots/changed_banner.png)  
+
 
 
 
