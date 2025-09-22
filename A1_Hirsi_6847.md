@@ -24,6 +24,17 @@ Verified the app works by visiting http://127.0.0.1:5000/catalog
 - ![Terminal after running Flask](screenshots/terminal.png)  
 - ![After adding a book](screenshots/add_book.png)  
 - ![After trying to return a book](screenshots/return_book.png)  
+- ![Banner change](screenshots/changed_banner.png)  
+
+
+
+
+
+
+
+
+
+
 
 
 
